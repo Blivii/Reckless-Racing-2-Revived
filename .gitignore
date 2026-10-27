@@ -1,0 +1,7 @@
+build/
+build-android/
+out/
+externals/
+*.log
+rr2.cfg
+*.local.md
