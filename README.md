@@ -12,7 +12,7 @@ JIT inside a new 64-bit library, and features:
   accelerate like the original
 - 24-bit colour, optional 2x2 supersampling
 - Controller support: L2 and R2 for brake and gas, left stick and dpad steers, on-screen driving buttons hidden
-- An in-game menu (tap screen with three fingers): graphical settings, cheats (Add $100,000/Unlock all cars, save backup/restore/reset, gamepad mode (hides on screen controls)
+- An in-game menu (tap screen with three fingers): graphical settings, cheats (Add $100,000/Unlock all cars), save backup/restore/reset, gamepad mode (hides on screen controls)
 - The store screen no longer crashes; the game runs fully offline
 
 No game files are included. You patch your own copy. Vision has what you need. 
